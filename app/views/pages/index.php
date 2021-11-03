@@ -3,11 +3,7 @@
 ?>
 <h1><?php echo $data["title"]; ?></h1>
 
-<ul>
-    <?php foreach ($data["posts"] as $post) : ?>
-        <li><?php echo $post->title ?></li>
-    <?php endforeach; ?>
-</ul>
+<p>This is a customMVC PHP framework. Please refer to the docs on how to use it.</p>
 
 <?php
     require APPROOT . "/views/includes/footer.php";
