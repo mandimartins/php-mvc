@@ -34,7 +34,7 @@
         <header class="blog-header py-3">
             <div class="row flex-nowrap justify-content-between align-items-center">
             <div class="col-12 text-center">
-                <a class="blog-header-logo text-dark" href="#"><?php echo $data["title"]; ?></a>
+                <a class="blog-header-logo text-dark" href="#"><?php echo isset($data["title"]) ? $data["title"] : "" ; ?></a>
             </div>
             </div>
         </header>

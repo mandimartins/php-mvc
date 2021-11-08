@@ -16,13 +16,13 @@
             <a class="nav-link" href="<?php echo URLROOT ?>">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="<?php echo URLROOT ?>/users/login">Login</a>
+            <a class="nav-link" href="<?php echo URLROOT ?>users/login">Login</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="<?php echo URLROOT ?>/users/register">Register</a>
+            <a class="nav-link" href="<?php echo URLROOT ?>users/register">Register</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="<?php echo URLROOT ?>/pages/about">About</a>
+            <a class="nav-link" href="<?php echo URLROOT ?>pages/about">About</a>
           </li>
         </ul>
       </div>
