@@ -24,7 +24,7 @@
           </div>
           <div class="d-grid gap-2 mt-3">
                  <input type="submit" value="Login" class="btn btn-success">
-                 <a href="<?php echo URLROOT; ?>/users/login" class="btn btn-link">No account? Register</a>
+                 <a href="<?php echo URLROOT; ?>/users/register" class="btn btn-link">No account? Register</a>
                 </div>
         </form>
       </div>

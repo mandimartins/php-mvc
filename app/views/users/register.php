@@ -40,7 +40,7 @@
                 </div>
                 <div class="d-grid gap-2 mt-3">
                  <input type="submit" value="Register" class="btn btn-success">
-                 <a href="<?php echo URLROOT; ?>/users/register" class="btn btn-link">Have an account? Login</a>
+                 <a href="<?php echo URLROOT; ?>/users/login" class="btn btn-link">Have an account? Login</a>
                 </div>
             </form>
         </div>
