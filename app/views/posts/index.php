@@ -36,7 +36,8 @@
         </strong></div>
           <p class="mb-auto">This is a wider card with supporting text below as
               a natural lead-in to additional content.</p>
-          <a href="<?php echo URLROOT; ?>posts/show" class="stretched-link">Continue reading</a>
+          <a href="<?php echo URLROOT; ?>posts/show/<?php echo $post->postId; ?>"
+          class="stretched-link">Continue reading</a>
         </div>
         <div class="col-auto d-none d-lg-block">
           <svg class="bd-placeholder-img"
