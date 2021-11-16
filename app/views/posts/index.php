@@ -2,6 +2,7 @@
     require APPROOT . "/views/includes/header.php";
 ?>
 
+<?php flash("post_message"); ?>
 <div class="row">
     <div class="col-md-6">
         <h1>Posts</h1>
@@ -50,6 +51,7 @@
                      height="100%"
                      fill="#55595c">
                </rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+               <!-- <img src="https://random.imagecdn.app/200/250" alt="Just a ramdom image"> -->
         </div>
       </div>
     </div>
