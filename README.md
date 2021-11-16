@@ -8,7 +8,9 @@
 <hr>
 
 ## Built with
-* Traversy MVC
+* [Traversy MVC](https://www.udemy.com/course/object-oriented-php-mvc/)
+* [Bootstrap 5 Template](https://getbootstrap.com/docs/5.0/examples/blog/)
+* SQL
 
 <hr>
 
